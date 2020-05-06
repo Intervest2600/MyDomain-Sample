@@ -1,7 +1,7 @@
 {
   "name": "My Domain Sample",
   "description": "A simple example to brand your Salesforce My Domain",
-  "repository": "https://www.herokucdn.com/deploy/button.png)](https://github.com/Intervest2600/Salesforce-loginpagina",
+  "repository": "https://github.com/Intervest2600/MyDomain-Sample",
   "website": "https://www.salesforce.com/platform/identity",
   "logo": "https://login.salesforce.com/logos/Salesforce/Salesforce/logo.png",
   "keywords": ["salesforce"],
